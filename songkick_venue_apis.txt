@@ -1,0 +1,21 @@
+empty bottle: 251, well-captured
+coles: 524066, not adequately captured
+quenchers: 34713, well-captured, but not completely
+Bottom Lounge: 17091, well-captured
+SubT: 262, medium capture
+Beat Kitchen: 212, very well captured, even events you probably don't want
+Lincoln Hall: 513326, well-captured
+Schubas: 2133, well-captured
+Thalia Hall: 1434818, well-captured
+the burlington: 34695, maybe not well-captured
+the hideout: 259, well-captured
+
+reggies:
+riviera?
+park west?
+aragon: 
+metro?
+concord?
+vic?
+
+issues: coles, quenchers, subt, the burlington
